@@ -1,18 +1,19 @@
 {
     "name"       : "smsaero",
     "version"    : "0.0.1",
-    "description": "",
+    "description": "Client for SMS Aero API",
     "keywords"   : ["sms"],
     "homepage"   : "https://github.com/dchusovitin/node-smsaero",
     "licenses"   : [
         {
             "type": "MIT",
-            "url" : "https://github.com/dchusovitin/node-smsaero/blob/master/LICENSE"
+            "url" : "https://raw.github.com/dchusovitin/node-smsaero/master/LICENSE"
         }
     ],
     "author"     : {
         "name" : "Dmitry Chusovitin",
-        "email": "dchusovitin@gmail.com"
+        "email": "dchusovitin@gmail.com",
+        "url"  : "http://chusovitin.com/"
     },
     "main"       : "./lib/smsaero",
     "repository" : {
