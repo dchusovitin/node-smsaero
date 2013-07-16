@@ -1,6 +1,6 @@
 {
     "name"       : "smsaero",
-    "version"    : "0.0.1",
+    "version"    : "0.0.2",
     "description": "Client for SMS Aero API",
     "keywords"   : ["sms"],
     "homepage"   : "https://github.com/dchusovitin/node-smsaero",
