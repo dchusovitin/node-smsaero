@@ -16,8 +16,8 @@ sms.send({
     to  : "79876543210",
     text: "Test message",
     from: "Test"
-}, function(err, result){
-    console.log("send", result);
+}, function(err, messageId, resultCode){
+    console.log("send", messageId, resultCode);
 });
 
 // Checking the status of a sent message
